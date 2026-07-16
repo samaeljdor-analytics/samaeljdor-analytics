@@ -1,16 +1,71 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+<title>Data Analyst Portfolio</title>
+<style>
+body {
+font-family: Arial;
+margin: 40px;
+background:#f5f5f5;
+}
+.container{
+max-width:900px;
+margin:auto;
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0px 0px 10px rgba(0,0,0,0.1);
+}
+.project{
+background:#fafafa;
+padding:15px;
+border-radius:8px;
+margin-top:10px;
+}
+.project a{
+color:#3D5A80;
+font-weight:bold;
+text-decoration:none;
+}
+.project a:hover{
+text-decoration:underline;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Your Name</h1>
+<p><b>Data Analyst | Statistical Analyst | QGIS / Geospatial Analytics</b></p>
+<p>
+Master's degree in Statistics with experience analyzing datasets and performing geospatial analysis using QGIS.
+</p>
+<h2>Technical Skills</h2>
+<ul>
+<li>R</li>
+<li>SAS</li>
+<li>JavaScript</li>
+<li>QGIS</li>
+<li>Machine Learning</li>
+<li>Statistical Modeling</li>
+</ul>
+<h2>Projects</h2>
+<div class="project">
+<b>Geospatial Crime Analysis</b>
+<p>Spatial analysis project identifying geographic crime hotspots using QGIS.</p>
+<p><a href="https://github.com/samaeljdor-analytics/geospatial-crime-analysis" target="_blank">View project →</a></p>
+</div>
+<div class="project">
+<b>Housing Price Prediction</b>
+<p>Machine learning model predicting housing prices using regression.</p>
+</div>
+<div class="project">
+<b>SQL Retail Sales Analysis</b>
+<p>Analyzed retail sales data to identify revenue trends and top-performing products.</p>
+</div>
+<h2>Contact</h2>
+<p>Email: samaeljdor@gmail.com</p>
+<p>GitHub: github.com/samaeljdor-analytics</p>
+</div>
+</body>
+</html>
 
-<!--
-**samaeljdor-analytics/samaeljdor-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
