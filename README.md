@@ -34,10 +34,10 @@ text-decoration:underline;
 </head>
 <body>
 <div class="container">
-<h1>Your Name</h1>
+<h1>Samael J Dor</h1>
 <p><b>Data Analyst | Statistical Analyst | QGIS / Geospatial Analytics</b></p>
 <p>
-Master's degree in Statistics with experience analyzing datasets and performing geospatial analysis using QGIS.
+Master's degree in Mathematics with experience analyzing datasets and performing geospatial analysis using QGIS.
 </p>
 <h2>Technical Skills</h2>
 <ul>
