@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Data Analyst Portfolio</title>
-<style>
-body {
-font-family: Arial;
-margin: 40px;
-background:#f5f5f5;
-}
-.container{
-max-width:900px;
-margin:auto;
-background:white;
-padding:30px;
-border-radius:10px;
-box-shadow:0px 0px 10px rgba(0,0,0,0.1);
-}
-.project{
-background:#fafafa;
-padding:15px;
-border-radius:8px;
-margin-top:10px;
-}
-.project a{
-color:#3D5A80;
-font-weight:bold;
-text-decoration:none;
-}
-.project a:hover{
-text-decoration:underline;
-}
-</style>
-</head>
-<body>
-<div class="container">
+
 <h1>Samael J Dor</h1>
 <p><b>Data Analyst | Statistical Analyst | QGIS / Geospatial Analytics</b></p>
 <p>
