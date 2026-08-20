@@ -59,10 +59,6 @@ Master's degree in Mathematics with experience analyzing datasets and performing
 <p>Machine learning model predicting housing prices using regression.</p>
  <p><a href="https://github.com/samaeljdor-analytics/housing-price-prediction" target="_blank">View project →</a></p>
 </div>
-<div class="project">
-<b>SQL Retail Sales Analysis</b>
-<p>Analyzed retail sales data to identify revenue trends and top-performing products.</p>
-</div>
 <h2>Contact</h2>
 <p>Email: samaeljdor@gmail.com</p>
 <p>GitHub: github.com/samaeljdor-analytics</p>
